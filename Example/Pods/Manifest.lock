@@ -1,0 +1,16 @@
+PODS:
+  - LMYCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - LMYCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  LMYCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LMYCategoryKit: 406ded7338699922c7f6411d7ff96e8e3a1e3d78
+
+PODFILE CHECKSUM: ca50f0d1de852c994106a248973b5692204b0f23
+
+COCOAPODS: 1.11.0

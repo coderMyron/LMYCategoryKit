@@ -1,0 +1,22 @@
+{
+  "name": "LMYCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of LMYCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/limuyi/LMYCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "limuyi": "limuyi@paysdk.net"
+  },
+  "source": {
+    "git": "https://github.com/limuyi/LMYCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "LMYCategoryKit/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module Pods_LMYCategoryKit_Tests {
+  umbrella header "Pods-LMYCategoryKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
